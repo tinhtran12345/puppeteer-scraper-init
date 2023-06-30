@@ -13,7 +13,10 @@ Note that: method .launch() method takes a JSON parameter with several values:
 ## File structure
 src:
 --browser.js
+
 --pageController.js
+
 --pageScraper.js
+
 index.js
 
